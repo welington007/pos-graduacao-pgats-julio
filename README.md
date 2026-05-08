@@ -1,5 +1,5 @@
 # pos-graduacao-pgats-julio
-repositório para entrega de trabalho
+repositório para entrega de trabalho de programação
 
 Desafio Valendo 2 Pontos na Nota Final
 
